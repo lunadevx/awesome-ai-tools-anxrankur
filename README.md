@@ -42,6 +42,7 @@ A curated list of powerful AI tools for developers, creators, designers, entrepr
 - Gamma
 - Napkin AI
 - Tome
+- [AI at Work](https://aiatwork-two.vercel.app) - Practical guides on using AI tools for careers: job search, resume building, interview prep and workplace productivity.
 
 ## 🔍 Research & Search
 - Perplexity
@@ -52,6 +53,7 @@ A curated list of powerful AI tools for developers, creators, designers, entrepr
 - Teal AI
 - Kickresume AI
 - Resume Worded
+- [AI at Work](https://aiatwork-two.vercel.app) - Practical guides on using AI tools for careers: job search, resume building, interview prep and workplace productivity.
 
 ## 📚 Learning
 - roadmap.sh
